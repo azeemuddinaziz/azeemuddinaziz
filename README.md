@@ -1,5 +1,7 @@
 ![cover](https://github.com/azeemuddinaziz/azeemuddinaziz/assets/79792351/32b0b230-85a4-4e5e-85e2-9c537dc0b754)
 
+https://trivia-app-azeem.vercel.app/
+
 <!--
 **azeemuddinaziz/azeemuddinaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
