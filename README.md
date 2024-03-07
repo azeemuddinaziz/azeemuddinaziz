@@ -1,5 +1,6 @@
+**azeemuddinaziz/az![cover](https://github.com/azeemuddinaziz/azeemuddinaziz/assets/79792351/eebbd60e-4d97-46b6-bb52-599959fa854d)
 <!--
-**azeemuddinaziz/azeemuddinaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eemuddinaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
