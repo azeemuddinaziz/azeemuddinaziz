@@ -1,12 +1,3 @@
-<div>
-  <img src="https://github.com/azeemuddinaziz/azeemuddinaziz/assets/79792351/b395b7b5-fd98-4262-a7bd-06a2a5ba8927" />
-  
- <button style="background-color: red;">https://trivia-app-azeem.vercel.app/</button>
-</div>
-
-
-
-
 <!--
 **azeemuddinaziz/azeemuddinaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
