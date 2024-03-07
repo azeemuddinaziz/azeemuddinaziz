@@ -1,5 +1,5 @@
-![cover](https://github.com/azeemuddinaziz/azeemuddinaziz/assets/79792351/cafe8bb3-d06c-4a05-9f90-78c0b8380edc)
-
+<img src="https://github.com/azeemuddinaziz/azeemuddinaziz/assets/79792351/cafe8bb3-d06c-4a05-9f90-78c0b8380edc" />
+ 
 <!--
 eemuddinaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
