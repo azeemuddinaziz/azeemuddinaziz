@@ -1,4 +1,4 @@
-### Hi there 👋
+![cover](https://github.com/azeemuddinaziz/azeemuddinaziz/assets/79792351/32b0b230-85a4-4e5e-85e2-9c537dc0b754)
 
 <!--
 **azeemuddinaziz/azeemuddinaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
